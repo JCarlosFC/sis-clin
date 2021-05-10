@@ -1,0 +1,18 @@
+@media (min-width: 780px) {
+    .image_persona{
+        position: absolute;
+    }
+    
+}
+
+@media (min-width: 576px){
+
+}
+
+.form-inline label{
+    display: block;
+}
+.form-group {
+    margin-bottom: 15px!important;
+}
+
